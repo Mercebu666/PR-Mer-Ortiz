@@ -66,7 +66,6 @@ header {
     background: #496ac9;
     height: 50px;  /*ancho de la franja azul*/
   }
-
   /*Navigation Menu*/
   .navigation-menu {
     display: flex;
@@ -366,7 +365,7 @@ body{
   left: 280px; /* Centered vertically across the containers */
 }
 
-/*Product section*/
+/*RECENT NEWS - PRODUCT + CONTACT*/
 .news, .message,.expert-advice { 
   padding: 20px;
 }
@@ -410,19 +409,20 @@ body{
   overflow-x: auto; 
 }
 
-/*MAIN STYLE*/
+/*TITLE PRODUCT*/
 .contact-title {
-  font-size: 2em;    /* Tamaño de la fuente */
-  color: #496ac9; /*Color de la fuente*/
-  text-align: left;  /* Alineación del texto a la izquierda */
-  border-bottom: 2px solid #496ac9; /* Línea de subrayado azul */
-  padding-bottom: 10px; /* Espacio entre el texto y la línea */
+  font-size: 2em;    
+  color: #496ac9; 
+  text-align: left; 
+  border-bottom: 2px solid #496ac9; 
+  padding-bottom: 10px; 
 }
-.contact-title2 {  /*Formato del título pero sin subrayado*/
-  font-size: 2em;    /* Tamaño de la fuente */
-  color: #496ac9; /*Color de la fuente*/
-  text-align: left;  /* Alineación del texto a la izquierda */
-  padding-bottom: 10px; /* Espacio entre el texto y la línea */
+/*TITLE CONTACT*/
+.contact-title2 { 
+  font-size: 2em;   
+  color: #496ac9; 
+  text-align: left;  
+  padding-bottom: 10px; 
 }
 
 /* Catalog Section */

@@ -425,7 +425,7 @@ body{
   padding-bottom: 10px; 
 }
 
-/* Catalog Section */
+/* CATALOG SECTION - PRODUCTS*/
 .catalog-section {
   max-width: 1170px;
   font-size: 16px;
@@ -437,7 +437,7 @@ body{
   font-size: 16px;
   margin-bottom: 20px;
 }
-/* TIPS STYLE*/
+/* Tips style*/
 .tips-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -458,48 +458,42 @@ body{
 .tip p {
   font-size: 16px;
 }
-/* Tip IconS */
+/* Tip Icons */
 .tip-icon {
   font-size: 41px;
   float: left; 
   margin-right: 10px; /* Space uncer the icon */
 }
 
-/*TABLE STYLE*/
+/*TABLE SECTION - PRODUCT*/
 table {
   width: 100%;
   border-collapse: collapse;
   text-align: left;
 }
-
 td img {
   width: 100px;
   border-radius: 5px;
 }
-
 .tableheader{
   border-bottom: 1px solid #000000;
   background-color: #0a3edd;
   color:#ffffff;
 }
-
 .darkblue{
   background-color: #0a3edd;
   border-bottom: 1px solid #000000;
   color:#ffffff;
 }
-
 .lightblue{
   background-color: #496ac9;
   border-bottom: 1px solid #000000;
   color:#ffffff;
   padding: 10px;
 }
-
 .modela{
   border: 1px solid #000000;
 }
-
 .modelb{
   border: 1px solid #000000;
   background-color: #f2f2f2;
@@ -509,7 +503,7 @@ td img {
   border: 1px solid #000000;
 }
 
-/*FORM*/
+/*FORM - CONTACT*/
 .form-container {
   position: relative; /* Pseudo-elements positionated */
   border: 2px solid #a3baff;/* Border*/
@@ -555,7 +549,7 @@ td img {
   line-height: 1; 
 }
 
-/* FORM STYLE*/
+/* Form style*/
 form {
   padding: 20px;
   width: auto; /*same size of the box*/
@@ -714,7 +708,7 @@ footer {
   margin-right: 5px;
 }
 
-/* AFTER THE LINE*/
+/* After the line*/
 .footer-line {
   left: 0;
   bottom: 0;
